@@ -1,0 +1,6 @@
+{
+  "name": "Bengaluru Marathon",
+  "description": "Bengaluru City Marathon registration app with real-time runner tracking and integrated digital race bib system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
